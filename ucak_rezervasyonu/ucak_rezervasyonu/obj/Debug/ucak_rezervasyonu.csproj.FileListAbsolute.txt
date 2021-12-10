@@ -1,0 +1,10 @@
+C:\Users\semih\Desktop\C# dersleri\ucak_rezervasyonu\ucak_rezervasyonu\bin\Debug\ucak_rezervasyonu.exe.config
+C:\Users\semih\Desktop\C# dersleri\ucak_rezervasyonu\ucak_rezervasyonu\bin\Debug\ucak_rezervasyonu.exe
+C:\Users\semih\Desktop\C# dersleri\ucak_rezervasyonu\ucak_rezervasyonu\bin\Debug\ucak_rezervasyonu.pdb
+C:\Users\semih\Desktop\C# dersleri\ucak_rezervasyonu\ucak_rezervasyonu\obj\Debug\ucak_rezervasyonu.csproj.AssemblyReference.cache
+C:\Users\semih\Desktop\C# dersleri\ucak_rezervasyonu\ucak_rezervasyonu\obj\Debug\ucak_rezervasyonu.Form1.resources
+C:\Users\semih\Desktop\C# dersleri\ucak_rezervasyonu\ucak_rezervasyonu\obj\Debug\ucak_rezervasyonu.Properties.Resources.resources
+C:\Users\semih\Desktop\C# dersleri\ucak_rezervasyonu\ucak_rezervasyonu\obj\Debug\ucak_rezervasyonu.csproj.GenerateResource.cache
+C:\Users\semih\Desktop\C# dersleri\ucak_rezervasyonu\ucak_rezervasyonu\obj\Debug\ucak_rezervasyonu.csproj.CoreCompileInputs.cache
+C:\Users\semih\Desktop\C# dersleri\ucak_rezervasyonu\ucak_rezervasyonu\obj\Debug\ucak_rezervasyonu.exe
+C:\Users\semih\Desktop\C# dersleri\ucak_rezervasyonu\ucak_rezervasyonu\obj\Debug\ucak_rezervasyonu.pdb
